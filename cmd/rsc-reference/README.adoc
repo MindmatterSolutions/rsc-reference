@@ -1,0 +1,8 @@
+= rsc-reference
+Neall de Waal <neall.dewaal@mindmattersolutions.co.za>
+:source-highlighter: coderay
+:toc: left
+:toc-title: Document Contents
+:documentation-dir: ../../docs
+
+include::{documentation-dir}/attributes.adoc[]

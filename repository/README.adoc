@@ -1,0 +1,3 @@
+== Repository
+
+Logic relating to datastore related jobs such as querying, updating, creating, and deleting data. No business logic should be stored here.

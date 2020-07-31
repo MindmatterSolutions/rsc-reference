@@ -1,0 +1,3 @@
+:orgname: Mindmatter Solutions
+:gitlab-repo: https://gitlab.com/mindmattersolutions
+:github-repo: https://github.com/MindmatterSolutions

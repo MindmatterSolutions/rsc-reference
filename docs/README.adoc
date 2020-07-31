@@ -1,0 +1,5 @@
+== Types of Documentation
+
+ - Reference: Information-orientated documentation
+ - Conceptual: Understanding orientated documentation
+ - Procedural: Goal- or Learning orientated documentation.
